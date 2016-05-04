@@ -1,0 +1,20 @@
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:0 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:500 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:500 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:1000 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:1000 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:1500 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:1500 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:2000 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:2000 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:2500 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:2500 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:3000 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:3000 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:3500 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:3500 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:4000 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:4000 ACK:0 flag:010000
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:4500 flag:/
+Timestamp:2016-01-01 15:33:00 Source:41191 Destination:41192 Sequence:8000 ACK:4500flag:010001
+Timestamp:2016-01-01 15:33:00 Source:41194 Destination:41191 Sequence:/ ACK:-1 flag:/
